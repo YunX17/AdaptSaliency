@@ -19,10 +19,13 @@ Thus, using other Caffe versions will lead to wrong detection.
 
 Usage:
  
+1. Our caffemodels can be downloaded from Google Drive. Please download them and put them to the identical path of the file "bat_RADF.m" .
+MotionSaliencyDetector 
 
-1. Video sequences should be copied to the path ".\Sequence\original\" with "jpg", "png" or "bmp" file formats.
 
-2. Then, you can use file "bat_RADF" to predict saliency maps.
+2. Video sequences should be copied to the path ".\Sequence\original\" with "jpg", "png" or "bmp" file formats.
+
+3. Then, you can use file "bat_RADF.m" to predict saliency maps.
 
 
 
