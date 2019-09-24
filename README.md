@@ -1,7 +1,7 @@
 # AdaptSaliency
 
 ******************************************************************************************************************
-Title: Self-paced Online Learning: A Novel Weakly Supervised Scheme to Adapt Image Saliency Model for Video Data
+
 
 The code is tested on windows 10 with MATLAB R2016b, CUDA 8.0
 ******************************************************************************************************************
