@@ -1,7 +1,7 @@
 # AdaptSaliency
 
 ******************************************************************************************************************
-
+Paper "A Plug-and-play Scheme to Adapt Image Saliency Deep Model for Video Data"
 
 The code is tested on windows 10 with MATLAB R2016b, CUDA 8.0
 ******************************************************************************************************************
