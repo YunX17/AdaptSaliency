@@ -6,6 +6,9 @@ Paper "A Plug-and-play Scheme to Adapt Image Saliency Deep Model for Video Data"
 The code is tested on windows 10 with MATLAB R2016b, CUDA 8.0
 ******************************************************************************************************************
 
+About Our Saliency Maps：
+Baidu Drive：https://pan.baidu.com/s/1rRB22UBa2Su83PhbwZlk8g
+e7rq
 
 Installation:
  
