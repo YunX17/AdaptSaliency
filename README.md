@@ -7,8 +7,8 @@ The code is tested on windows 10 with MATLAB R2016b, CUDA 8.0
 ******************************************************************************************************************
 
 About Our Saliency Maps：
-Baidu Drive：https://pan.baidu.com/s/1rRB22UBa2Su83PhbwZlk8g
-e7rq
+Baidu Drive：https://pan.baidu.com/s/1CSixGYStD-i23bOGwxGXYA
+sd5a
 
 Installation:
  
